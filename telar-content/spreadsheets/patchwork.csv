@@ -1,0 +1,5 @@
+step,object,x,y,zoom,page,question,answer,alt_text,layer1_button,layer1_content,layer2_button,layer2_content,clip_start,clip_end,loop
+paso,objeto,x,y,zoom,pagina,pregunta,respuesta,texto_alt,boton1,contenido1,boton2,contenido2,inicio_clip,fin_clip,bucle
+1,road-from-oxford,0.686989914128176,0.4584237952708284,1.728,,Where do we begin?,"This is a placeholder, because we aren't quite at Oxford yet. Or Cambridge.",,,,,,,,
+2,a-patchwork-screen,0.46805382734753387,0.2495346941640774,2.2394879999999997,,Why a Patch-work Screen,"A women's work metaphor activates this narrative experiment, which is pretty overdetermined.",,Jane Barker,patchwork-about-jane-barker.md,,,,,
+3,,,,,,A landscape in verse,,,,,,,,,

@@ -1,7 +1,7 @@
 step,object,x,y,zoom,page,question,answer,alt_text,layer1_button,layer1_content,layer2_button,layer2_content,clip_start,clip_end,loop
 paso,objeto,x,y,zoom,pagina,pregunta,respuesta,texto_alt,boton1,contenido1,boton2,contenido2,inicio_clip,fin_clip,bucle
 1,,,,,,Angel,Herself between dog and wolf,,,,,,,,
-2,angel,0.5,0.5,1.5,,What season is it?,"Spooky season, of course.",,Learn more,blank_template-learn-more.md,,,,,
+2,angel,0.5,0.5,1.5,,What season is it?,"Spooky season, of course, AKA [[autumn]]. ",,Learn more,blank_template-learn-more.md,,,,,
 3,angel,0.5173899884613761,0.5746769475594868,4.6005882352941185,,What is on her mind?,What are her wolf eyes seeing? What is she thinking?,A dog's brown eyes,,,,,,,
 4,,,,,,Paul Thomas Anderson,Images and reflections from his narrative films,,,,,,,,
 5,boogie-nights-01656,0.5,0.5,1.5,,Roller girl,Heather Graham's character in Boogie Nights is first (I think?) glimpsed in class.,"Two students in a classroom, one passing a paper to the one behind him.",,,,,,,

@@ -1,3 +1,4 @@
 order,story_id,title,subtitle,byline,private,show_sections
 orden,id_historia,titulo,subtitulo,firma,privada,mostrar_secciones
 0,blank_template,Fall 2026,,Alice,,yes
+1,patchwork,Patchwork,An experimental edition,Alice McGrath,,
